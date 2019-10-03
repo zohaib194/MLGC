@@ -9,7 +9,7 @@ As part of the project, the team has applied the TYOM feautre on SAP Cloud Platf
 - Create .env file and add the following fields:
     * clientID="**************'"
     * clientSecret="*******"
-    * authenticationURL="************************"
+    * authenticationURL="************************/oauth/token?grant_type=client_credentials"
     * baseURL="https://mlftrial-image-classifier.cfapps.eu10.hana.ondemand.com/api/v2/image/classification"
 
 - Run the following commands in the root directory:
