@@ -1,0 +1,6 @@
+model_checkpoint_path: "/data/brands-2019-09-26t1613z096799/interval-model-16"
+all_model_checkpoint_paths: "/data/brands-2019-09-26t1613z096799/interval-model-8"
+all_model_checkpoint_paths: "/data/brands-2019-09-26t1613z096799/interval-model-9"
+all_model_checkpoint_paths: "/data/brands-2019-09-26t1613z096799/interval-model-11"
+all_model_checkpoint_paths: "/data/brands-2019-09-26t1613z096799/interval-model-12"
+all_model_checkpoint_paths: "/data/brands-2019-09-26t1613z096799/interval-model-16"
